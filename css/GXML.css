@@ -1,0 +1,154 @@
+#cuerpo {
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 5%;
+	border: 1px solid;
+	display: flex;
+	justify-content: center;
+}
+#preguntar {
+	width: 20%;
+	border: 1px solid;
+	display: flex;
+	flex-direction: column;
+	background-color: #B2B4B8;
+}
+#formulario {
+	width: 80%;
+	background-color: red;
+}
+#Lenguajes {
+	width: 100%;
+}
+#Lenguajes > label {
+	background: transparent;
+	border: none;
+	font-size: 14px;
+	height: 30px;
+	padding: 5px;
+	width: 80%;
+}
+#Lenguajes > select {
+	background: transparent;
+	border: none;
+	font-size: 14px;
+	height: 30px;
+	padding: 5px;
+}
+#generos {
+	width: 100%;
+}
+#generos > label {
+	background: transparent;
+	border: none;
+	font-size: 14px;
+	height: 30px;
+	width: 80%;
+}
+#generos > select {
+	background: transparent;
+	border: none;
+	font-size: 14px;
+	height: 30px;
+	padding: 5px;
+}
+#rating {
+	width: 100%;
+}
+
+#actores {
+	width: 100%;
+}
+#actores > label {
+	background: transparent;
+	border: none;
+	font-size: 14px;
+	height: 30px;
+	width: 80%;
+}
+#actores > select {
+	background: transparent;
+	border: none;
+	font-size: 14px;
+	height: 30px;
+}
+#directores {
+	width: 100%;
+}
+#directores > label {
+	background: transparent;
+	border: none;
+	font-size: 14px;
+	height: 30px;
+	width: 80%;
+}
+#directores > select {
+	background: transparent;
+	border: none;
+	font-size: 14px;
+	height: 30px;
+}
+#productores {
+	width: 100%;
+}
+#productores > label {
+	background: transparent;
+	border: none;
+	font-size: 14px;
+	height: 30px;
+	padding: 5px;
+	width: 80%;
+}
+#productores > select {
+	background: transparent;
+	border: none;
+	font-size: 14px;
+	height: 30px;
+}
+#Estaticos {
+	background: transparent;
+	border: none;
+	display: flex;
+	flex-direction: column;
+}
+#Estaticos > div {
+	background: transparent;
+	border: none;
+	height: 30px;
+	padding: 5px;
+	width: 100%;
+}
+#Estaticos > div > label {
+	width: 15%;
+}
+#Estaticos > div > input {
+	width: 60%;
+}
+#escritores {
+	width: 100%;
+}
+#escritores > label {
+	background: transparent;
+	border: none;
+	font-size: 14px;
+	height: 30px;
+	padding: 5px;
+	width: 80%;
+}
+#escritores > select {
+	background: transparent;
+	border: none;
+	font-size: 14px;
+	height: 30px;
+}
+#FLenguaje > div {
+	background-color: red;
+}
+
+#archivos {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
